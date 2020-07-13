@@ -1,0 +1,18 @@
+###Loading multi-app but with duplicate dependency
+https://github.com/joeldenning/coexisting-angular-microfrontends
+
+
+###Minimal bundle into common, but can't load different version
+https://github.com/IvanJov/react-angular-single-spa
+
+
+In-browser module, build-time module
+Import map override, for development
+CI/CD CDN deployment for every micro-gui
+Import map scopes
+Import map deployer for different envs (dev, uat, prod?) & live reload of newly deployed micro-gui.
+
+SystemJS Importmap -- browser support
+
+
+https://www.youtube.com/watch?v=nC7rpDXa4B8&list=PLLUD8RtHvsAOhtHnyGx57EYXoaNsxGrTU&index=6
